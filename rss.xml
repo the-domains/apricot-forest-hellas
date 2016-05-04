@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Apricot Forest Hellas]]></title>
+        <description><![CDATA[Apricot Forest Hellas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 May 2016 10:14:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>H κλινική Κινεζικής Ιατρικής Apricot Forest (XingLin), ιδρυθείσα από τονΔρ. Jiang Feng, είναι μια ιδιωτική κλινική αφοσιωμένη αποκλειστικά στην Κλασσική Κινέζικη Ιατρική που βρίσκεται στην περιοχή του Κίτρινου Βουνού της επαρχίας Anhui στην Κίνα.</p>]]></description>
+            <link>undefinedh-klinikh-kinezikhs-iatrikhs-apricot-forest-xinglin-idry8/index.html</link>
+            <guid isPermaLink="false">40fa4e8e-f2c8-4012-9ecc-88d07e9b4ab4</guid>
+            <pubDate>Wed, 04 May 2016 10:14:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
